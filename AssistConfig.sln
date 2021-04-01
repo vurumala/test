@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31009.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssistConfig", "AssistConfig\AssistConfig.csproj", "{FD997EBF-C411-4AB6-B1C4-3D64B71AACAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistConfig.Data", "AssistConfig.Data\AssistConfig.Data.csproj", "{760D08D6-1A8C-4845-829D-3ED15F9E037A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD997EBF-C411-4AB6-B1C4-3D64B71AACAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD997EBF-C411-4AB6-B1C4-3D64B71AACAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD997EBF-C411-4AB6-B1C4-3D64B71AACAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD997EBF-C411-4AB6-B1C4-3D64B71AACAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760D08D6-1A8C-4845-829D-3ED15F9E037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760D08D6-1A8C-4845-829D-3ED15F9E037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760D08D6-1A8C-4845-829D-3ED15F9E037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760D08D6-1A8C-4845-829D-3ED15F9E037A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79361CEE-A394-4B68-9182-B5671E646484}
+	EndGlobalSection
+EndGlobal
